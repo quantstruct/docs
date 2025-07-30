@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Quantstruct Admin Guide: Error Codes</title>
+  
+  <topicref href="general-error-handling.dita" navtitle="General Error Handling"/>
+  
+  <topicref navtitle="Error Code Reference">
+    <topicref href="auth-access-error-codes.dita" navtitle="Authentication &amp; Access Error Codes"/>
+    <topicref href="file-upload-processing-error-codes.dita" navtitle="File Upload &amp; Processing Error Codes"/>
+    <topicref href="assistant-chat-error-codes.dita" navtitle="Assistant &amp; Chat Error Codes"/>
+    <topicref href="integration-publishing-error-codes.dita" navtitle="Integration &amp; Publishing Error Codes"/>
+    <topicref href="system-infrastructure-error-codes.dita" navtitle="System &amp; Infrastructure Error Codes"/>
+  </topicref>
+  
+  <topicref href="troubleshooting-support.dita" navtitle="Troubleshooting &amp; Support"/>
+  <topicref href="appendix-error-code-reporting.dita" navtitle="Appendix: Error Code Reporting"/>
+  <topicref href="contact-resources.dita" navtitle="Contact &amp; Resources"/>
+</map>
